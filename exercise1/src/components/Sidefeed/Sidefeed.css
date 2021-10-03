@@ -1,0 +1,21 @@
+.SideNews {
+    background-color: rgb(255, 255, 255);
+    min-height: 600px;
+    width: 324px;
+}
+
+ .SideNews span {
+    justify-content: start;
+    text-align: center;
+    text-indent: 5px;
+    color: rgb(0, 0, 0);
+}
+
+#Numbering {
+    font-size: 3rem;
+}
+
+#linebreak {
+    margin-inline: 10px 10px;
+    color:rgba(0, 0, 0, 0.418);
+}

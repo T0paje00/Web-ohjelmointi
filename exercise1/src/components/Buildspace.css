@@ -1,0 +1,23 @@
+.MainBuild {
+    background-color: rgb(230, 230, 230);
+    /*height: 1080px;*/
+    
+
+}
+
+.ContentBoxes {
+    display: grid;
+    grid-gap: 3px;
+    text-align: start;
+    box-sizing: border-box;
+    justify-content: center;
+    padding-top: 20px;
+    padding-left: 40px;
+    color: #fff;
+    cursor: default;
+}
+
+.FeedBoxes {
+    display: flex;
+    grid-column-gap: 20px;
+}
