@@ -1,4 +1,4 @@
-![kuva renderistä](https://github.com/T0paje00/Web-ohjelmointi/main/public/exercise1_sivu.png?raw=true)
+![kuva renderistä](/public/exercise1_sivu.png)
 
 # Getting Started with Create React App
 
