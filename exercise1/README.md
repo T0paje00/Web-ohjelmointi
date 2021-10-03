@@ -1,4 +1,5 @@
-![kuva renderistä](https://github.com/T0paje00/Web-ohjelmointi/blob/main/exercise1/public/exercise1_sivu.png)
+Kuva sivusta.
+![Sivu renderöitynä](https://github.com/T0paje00/Web-ohjelmointi/blob/main/exercise1/public/exercise1_sivu.png)
 
 # Getting Started with Create React App
 
